@@ -1,4 +1,3 @@
-
 #ifndef __XINIT_H__
 #define __XINIT_H__
 
